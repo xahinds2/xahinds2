@@ -21,4 +21,4 @@
 ### - Socials :
 - ✨ [LinkedIn](https://www.linkedin.com/in/xahinds2/)
 - ✨ [LeetCode](https://leetcode.com/xahinds2/)
-- ✨ [WhatsApp](wa.me/918474061062?text=Hi)
+- ✨ [WhatsApp](https://wa.me/918474061062?text=Hi)
