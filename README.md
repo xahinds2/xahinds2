@@ -16,7 +16,7 @@
 - ✨ [Machine Learning](https://github.com/xahinds2/MachineLearning)
 
 ### - Hobbies : 
-- ✨ Valorant (Pro Gamer xD)
+- ✨ Valorant [Watch dis !!](https://youtu.be/JTcxQobM2s0)
 - ✨ Watching Anime
 - ✨ into Trading & Finance
 
