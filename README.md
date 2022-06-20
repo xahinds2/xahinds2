@@ -9,7 +9,7 @@
 # Sahin Das
 ### - I'm 21 years old Machine Learning Enthusiast from India.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://leetcode.card.workers.dev/xahinds2?theme=unicorn&font=baloo&extension=activity">
+<img hight="400" width="500" alt="GIF" align="right" src="https://leetcard.jacoblin.cool/xahinds2?theme=unicorn&font=Oswald&ext=activity">
 
 ### - Learning :
 - ✨ [Data Structures & Algorithms](https://github.com/xahinds2/DataStructures)
